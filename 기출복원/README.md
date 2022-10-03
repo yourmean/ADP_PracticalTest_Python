@@ -1,6 +1,7 @@
-## 25회 (22.09.25)
+## 26회 (22.09.25) 
+- [26회 복기](https://amaruak00.github.io/2022/09/26/adp26th.html)
 
-### 머신러닝 
+### 기계학습
 온라인 물품구매 데이터 (고객번호 제품번호 제품군 수량 가격 등)
 [Raw_data](https://www.kaggle.com/code/blanik/kor-e-commerce-data-3-customer-segmentation)
 
